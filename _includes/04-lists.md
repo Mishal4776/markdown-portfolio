@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Things I am interested in,
+  
+  * Reading
+  * swimming
+  * coding
+  * and more
